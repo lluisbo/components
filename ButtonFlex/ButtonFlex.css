@@ -1,0 +1,16 @@
+ /*This is just a CSS exemple. Salva is working on it.*/
+
+.btn--icon--outline{
+  color: transparent;
+  background-color: transparent;
+  outline: none;  
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: green;
+}
+.btn--iconClicked--outline{
+  
+  color: green;
+  
+  outline: none;
+}
+
