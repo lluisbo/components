@@ -1,2 +1,2 @@
-# REACT COMPONETS
+# REACT COMPONENTS
 useful components
